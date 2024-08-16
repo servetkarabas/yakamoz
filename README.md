@@ -1,0 +1,2 @@
+# yakamoz
+dictionary
